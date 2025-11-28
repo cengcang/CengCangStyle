@@ -1,0 +1,5 @@
+{
+  "name": "AI Wardrobe - NanoStyle",
+  "description": "A modern AI-powered virtual try-on application using Gemini NanoBanana models to swap outfits seamlessly.",
+  "requestFramePermissions": []
+}
